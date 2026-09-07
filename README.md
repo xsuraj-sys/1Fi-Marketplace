@@ -7,6 +7,29 @@ A responsive, mobile-first frontend application that allows users to browse a ma
 
 It heavily emphasizes a high-quality user experience utilizing 1Fi's signature design language (clean white backgrounds, purple navigation/primary CTAs, subtle lavender sections, and green exclusively for positive success indicators like "No Cost EMI").
 
+## Assignment Scope
+
+**Implemented:**
+- Shop page with Top Brands, Nearby Stores and 1Fi Marketplace
+- Product listing
+- Search and category filtering
+- Product details and gallery
+- Variant selection
+- Dynamic EMI calculations
+- EMI plan selection
+- Mock eligibility flow
+- Loading and error states
+- Responsive UI
+
+**Not implemented:**
+- Real payment processing
+- Real PAN verification
+- Real lending/eligibility APIs
+- Mutual fund pledging
+- Order fulfillment
+
+These were intentionally kept outside the frontend-only assignment scope.
+
 ## Tech Stack
 - **Framework:** React 19 with TypeScript
 - **Build Tool:** Vite
