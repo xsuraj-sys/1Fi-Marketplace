@@ -8,10 +8,10 @@ A responsive, mobile-first frontend application that allows users to browse a ma
 It heavily emphasizes a high-quality user experience utilizing 1Fi's signature design language (clean white backgrounds, purple navigation/primary CTAs, subtle lavender sections, and green exclusively for positive success indicators like "No Cost EMI").
 
 ## Tech Stack
-- **Framework:** React 18 with TypeScript
+- **Framework:** React 19 with TypeScript
 - **Build Tool:** Vite
 - **Styling:** Tailwind CSS v4 (using `@tailwindcss/postcss`)
-- **Routing:** React Router DOM v6
+- **Routing:** React Router DOM v7
 - **Icons:** Lucide React
 
 ## Architecture & Structure
